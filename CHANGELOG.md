@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [1.114.3](https://github.com/windmill-labs/windmill/compare/v1.114.2...v1.114.3) (2023-06-13)
+
+
+### Bug Fixes
+
+* flow editor design improvements ([d87e5ea](https://github.com/windmill-labs/windmill/commit/d87e5ea4fe3b5356275ff8268ed7ea3ab063679c))
+* flow editor design improvements ([eafb6ed](https://github.com/windmill-labs/windmill/commit/eafb6edb45ffcacc8cb30748df5cc33093e98699))
+* infer schema for script without schema in flows ([2db5337](https://github.com/windmill-labs/windmill/commit/2db533774cb1e6dd7dc9f3317c1441294c623724))
+
 ## [1.114.2](https://github.com/windmill-labs/windmill/compare/v1.114.1...v1.114.2) (2023-06-12)
 
 
